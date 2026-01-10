@@ -1,0 +1,6 @@
+com.fixer.app.test.app-tracing-1.2.0-0 C:\Users\USER\.gradle\caches\transforms-4\555a23b4a743354dafdac66aa51ab080\transformed\tracing-1.2.0\res
+com.fixer.app.test.app-core-1.6.1-1 C:\Users\USER\.gradle\caches\transforms-4\bca2b121e1963d1a75ccadbf59392340\transformed\core-1.6.1\res
+com.fixer.app.test.app-androidTest-2 C:\Users\USER\AndroidStudioProjects\FIXER\app\build\generated\res\resValues\androidTest\debug
+com.fixer.app.test.app-mergeDebugAndroidTestResources-3 C:\Users\USER\AndroidStudioProjects\FIXER\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.fixer.app.test.app-mergeDebugAndroidTestResources-4 C:\Users\USER\AndroidStudioProjects\FIXER\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.fixer.app.test.app-debugAndroidTest-5 C:\Users\USER\AndroidStudioProjects\FIXER\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

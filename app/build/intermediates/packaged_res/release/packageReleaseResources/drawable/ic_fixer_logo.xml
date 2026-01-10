@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+
+    <!-- Main gear/wrench icon representing F.I.X.E.R -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M40,10 L50,20 L60,15 L65,25 L75,30 L70,40 L75,50 L65,55 L60,65 L50,60 L40,70 L30,60 L20,65 L15,55 L5,50 L10,40 L5,30 L15,25 L20,15 L30,20 Z" />
+
+    <!-- F.I.X.E.R text (simplified) -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M35,35 L35,45 M35,35 L42,35 M35,40 L40,40" />
+</vector>

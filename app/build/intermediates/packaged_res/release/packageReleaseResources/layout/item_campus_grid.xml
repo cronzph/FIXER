@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/campusCard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="2dp"
+    android:foreground="?android:attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center">
+
+        <!-- Status Indicator -->
+        <TextView
+            android:id="@+id/statusIndicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🔴"
+            android:textSize="32sp"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Campus Name -->
+        <TextView
+            android:id="@+id/campusNameText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Main Campus"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:gravity="center"
+            android:maxLines="2"
+            android:ellipsize="end" />
+
+        <!-- Total Issues -->
+        <TextView
+            android:id="@+id/totalIssuesText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5 active"
+            android:textSize="12sp"
+            android:textColor="@color/text_secondary"
+            android:gravity="center"
+            android:layout_marginTop="4dp" />
+
+        <!-- Status Breakdown (Compact for Grid) -->
+        <TextView
+            android:id="@+id/statusBreakdownText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="P:3 | IP:1 | S:1"
+            android:textSize="10sp"
+            android:textColor="@color/text_secondary"
+            android:gravity="center"
+            android:layout_marginTop="4dp"
+            android:visibility="gone" />
+
+        <!-- Critical Indicator (Grid) -->
+        <TextView
+            android:id="@+id/criticalIndicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="⚠️ 2"
+            android:textSize="11sp"
+            android:textColor="@color/priority_critical"
+            android:layout_marginTop="4dp"
+            android:visibility="gone" />
+
+        <!-- Completed (Hidden in Grid) -->
+        <TextView
+            android:id="@+id/completedText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="10sp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

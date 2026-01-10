@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_code.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_code.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/menu_chat_menu.xml.flat",
+        "source": "com.fixer.app-main-53:/menu/chat_menu.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_schedule.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_schedule.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_report_details.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_report_details.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_time.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_campus.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_campus.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_check_circle.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_notifications_active.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_notifications_active.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_view_grid.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_view_grid.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_location.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_report_detail_with_photo.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_report_detail_with_photo.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_edit.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_fixer_logo.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_fixer_logo.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_person.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/color_textinput_stroke_color.xml.flat",
+        "source": "com.fixer.app-main-53:/color/textinput_stroke_color.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_chat.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_assign_technician.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_assign_technician.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_gradient_background.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_check.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_user_report.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_user_report.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_person_add.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_person_add.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_pending.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_pending.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/font_roboto_bold.ttf.flat",
+        "source": "com.fixer.app-main-53:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/color_button_background_selector.xml.flat",
+        "source": "com.fixer.app-main-53:/color/button_background_selector.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.fixer.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_main.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_clear.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_clear.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_settings.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_work.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_work.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_arrow_forward.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/color_text_input_hint_color.xml.flat",
+        "source": "com.fixer.app-main-53:/color/text_input_hint_color.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_export.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_export.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_technician_dashboard.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_technician_dashboard.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_circle_indicator.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/circle_indicator.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_photo_viewer.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_photo_viewer.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_maintenance_report.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_maintenance_report.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/menu_chat_list_menu.xml.flat",
+        "source": "com.fixer.app-main-53:/menu/chat_list_menu.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_add_report.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_add_report.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_user_dashboard.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_user_dashboard.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_bg_date_separator.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/bg_date_separator.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_photo.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_photo.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_attach.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_attach.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_message_received.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_activity.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_activity.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_bg_unread_badge.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/bg_unread_badge.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_mark_complete.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_mark_complete.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_send.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_rounded_border.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/rounded_border.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_logout.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_reports.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_reports.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_chat_empty.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_chat_empty.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_circle_background.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_close.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_info.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_camera.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_warning.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/warning.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_phone.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_login.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_confirm_password.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_confirm_password.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ripple_effect.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ripple_effect.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_refresh.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_filter.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_date_separator_bg.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/date_separator_bg.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_spinner_background.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_profile.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_user_management.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_user_management.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_delete.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_location_on.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_location_on.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_bg_circle.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/bg_circle.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_technician_report.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_technician_report.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_email.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_save.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_save.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_campus_issues.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_campus_issues.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/font_roboto_medium.ttf.flat",
+        "source": "com.fixer.app-main-53:/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.fixer.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_check_red.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_check_red.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/xml_file_paths.xml.flat",
+        "source": "com.fixer.app-main-53:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_report_management.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_report_management.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_search.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_message_input_background.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/message_input_background.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_advanced_filters.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_advanced_filters.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_request_access.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_request_access.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_edit_user.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_edit_user.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_view.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_view.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/menu_user_menu.xml.flat",
+        "source": "com.fixer.app-main-53:/menu/user_menu.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_more_vert.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_add.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_change_password.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_change_password.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_chat.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_user.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_lock_reset.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_lock_reset.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_lock.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_admin.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_chat.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_chat.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_view_list.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_view_list.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_search_background.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_message_sent.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_card_ripple.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/card_ripple.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_chat_add.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_chat_add.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/menu_technician_menu.xml.flat",
+        "source": "com.fixer.app-main-53:/menu/technician_menu.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/xml_backup_rules.xml.flat",
+        "source": "com.fixer.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_activity.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_activity.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_terms_and_conditions.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_terms_and_conditions.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.fixer.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_schedule_maintenance.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_schedule_maintenance.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_campus_issue.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_campus_issue.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/menu_admin_menu.xml.flat",
+        "source": "com.fixer.app-main-53:/menu/admin_menu.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_business.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_business.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_calendar.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_forgot_password.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_item_campus_grid.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/item_campus_grid.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.fixer.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_notifications.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_splash.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/drawable_ic_backup.xml.flat",
+        "source": "com.fixer.app-main-53:/drawable/ic_backup.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_activity_chat_list.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/activity_chat_list.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/layout_dialog_change_email.xml.flat",
+        "source": "com.fixer.app-main-53:/layout/dialog_change_email.xml"
+    },
+    {
+        "merged": "com.fixer.app-release-52:/font_roboto_regular.ttf.flat",
+        "source": "com.fixer.app-main-53:/font/roboto_regular.ttf"
+    }
+]
