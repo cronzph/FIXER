@@ -1,0 +1,95 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for Light Mode -->
+    <style name="Base.Theme.FIXER" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/primary_red</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/primary_red</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary Colors -->
+        <item name="colorSecondary">@color/accent_orange</item>
+        <item name="colorSecondaryVariant">@color/accent_color</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Background Colors (Light) -->
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        <!-- Error Colors -->
+        <item name="colorError">@color/error_color</item>
+        <item name="colorOnError">@color/white</item>
+
+        <!-- Window Colors -->
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+
+        <!-- Text Colors -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+
+        <!-- Control Colors -->
+        <item name="colorControlNormal">@color/text_secondary</item>
+        <item name="colorControlActivated">@color/primary_red</item>
+        <item name="colorControlHighlight">@color/ripple_color</item>
+
+        <!-- Menu Colors -->
+        <item name="android:itemTextAppearance">@style/MenuTextAppearance</item>
+        <item name="actionMenuTextColor">@color/text_primary</item>
+        <item name="android:popupBackground">@color/white</item>
+    </style>
+
+
+
+    <style name="Theme.FIXER" parent="Base.Theme.FIXER" />
+
+    <!-- Toolbar Theme for Red Toolbar with White Menu -->
+    <style name="ToolbarTheme" parent="ThemeOverlay.Material3.Dark.ActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+
+    <!-- Menu Popup Theme for White Background -->
+    <style name="MenuPopupTheme" parent="ThemeOverlay.Material3.Light">
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+    </style>
+
+    <!-- Menu Text Appearance -->
+    <style name="MenuTextAppearance" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Button Styles -->
+    <style name="RedButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/primary_red</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <!-- Text Input Styles -->
+    <style name="RedTextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary_red</item>
+        <item name="hintTextColor">@color/text_hint</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+    </style>
+
+    <!-- Card Styles -->
+    <style name="RedCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style>
+</resources>

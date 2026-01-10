@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452985305062",
+    "project_id": "f-i-x-e-r",
+    "storage_bucket": "f-i-x-e-r.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452985305062:android:3405f9d12528df98854827",
+        "android_client_info": {
+          "package_name": "com.fixer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1ElbvJf-ak4y5g48Z5mWlYql3dFF6Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><style name="TextInputHint.Black" parent="TextAppearance.MaterialComponents.Caption">
+    <item name="android:textColor">@color/black</item>
+</style>
+</resources>
